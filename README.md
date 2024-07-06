@@ -5,7 +5,6 @@
 Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for creating scalable and resilient systems. My focus is on empowering teams to deliver software faster and more efficiently. Here, you'll find a collection of my projects, contributions, and open-source work.
 
 ### Tech Stack
-[![GitHub DARR3NG](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![GitHub DARR3NG](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![GitHub DARR3NG](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
 [![GitHub DARR3NG](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
