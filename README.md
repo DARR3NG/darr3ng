@@ -52,8 +52,8 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge)
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=darr3ng&show_icons=true&locale=en&layout=compacttheme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darr3ng&show_icons=true&locale=en&layout=compact" alt="darr3ng" /></p>
 
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
