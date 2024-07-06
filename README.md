@@ -1,4 +1,4 @@
-### Salam there! I'm Otmane 👋
+### Hello there! I'm Otmane 👋
 
 ## DevOps Engineer | Automation Enthusiast
 
