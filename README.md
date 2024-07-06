@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DARR3NG&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darr3ng&show_icons=true&locale=en&layout=compact" alt="darr3ng" /></p>
 
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
