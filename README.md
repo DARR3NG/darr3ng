@@ -54,4 +54,4 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 
 Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6689cb38501413692bae174e?variant=dark)](https://roadmap.sh)
