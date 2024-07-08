@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a dedicated DevOps engineer with a passion for
 
 ### 🌱 I'm currently learning
 
-- cloud Devops & Infrastructure as Code 
+- cloud Devops & Infrastructure as Code & ML
 
-### 👯 I'm looking to collaborate onc
+### 👯 I'm looking to collaborate on
 
 - Open-source projects related to DevOps, cloud-native technologies, and automation
 - Building scalable and highly available systems
